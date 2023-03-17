@@ -41,10 +41,8 @@ The lower and upper confidience level was calculated using the standard deviatio
   - After the Smoothing excercise, final MAPE forecast was gotten to be 7.03% which is a way better value.
   - During 2012 and 2013, Canada capital income reached its highest value with ranged between 40,000 - 50,000 USD before falling below 35,000 in consecutive years.
   - there are posibilities that price continues to fall as seen in the forecast.
-  - 
+ 
   - ![image](https://user-images.githubusercontent.com/124097133/225883394-30d06aa1-209e-4395-abf0-3ab680c4e3b8.png)
-  - 
-  - This fall in price occurs as a result of
   
 ## Summary:
 If you’re still reading to this place, congratulations on being a lover of knowledge.
