@@ -1,7 +1,7 @@
 # Canada-Capital-Income-Time-Series-Forcast
 This project is based on a time series prediction and forecasting on a Canada capital income
 
-## About The Data
+## About The Data:
 This data is a Time-Series data with 46 Data entries. it consist of one entry per year with means that there are no month price tagg as all price has been agregatted to a year input. the data consist of two columns which is Date in year form and their Prices. this data has no seasonal input.
 
 ## Data Collection:
@@ -17,7 +17,8 @@ Data set was loaded in Jupiter for analysis. After this was done, i went further
 
 ## Data Visualization:
 Using Exploratory Data Analysis, I visualized how price has increased and dropped over the years in Canada
-##Data Modelling:
+
+##  Data Modelling:
 Linear Regression was used for data modelling as dataset was less complicated. 
 Naive model was also implored to compare the performance of our Linear Model.
 
@@ -27,4 +28,4 @@ Naive model was also implored to compare the performance of our Linear Model.
   - During 2012 and 2013, Canada capital income reached its highest value with ranged between 40,000 - 50,000 USD before falling below 35,000 in consecutive years.
   - there are posibilities that price continues to fall as seen in the forecast.
   - ![image](https://user-images.githubusercontent.com/124097133/225883394-30d06aa1-209e-4395-abf0-3ab680c4e3b8.png)
-This fall in price occurs as a result of
+  - This fall in price occurs as a result of
